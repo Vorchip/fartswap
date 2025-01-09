@@ -8,12 +8,16 @@
                                                    
 ```
 
+## 🎉 Contract Address
+9FLoRqzWDPpDbxfuHKEesaSnmmRBUJPagsebrWRLpump
+
 ## 🚀 About The Project
 
 FartSwap is a decentralized exchange (DEX) built specifically for the FartCoin ecosystem. Our platform provides fast, secure, and low-fee token swaps while maintaining the fun and engaging spirit of the FartCoin community. With a focus on user experience and community governance, FartSwap aims to be the go-to DEX for all FartCoin-related transactions.
 
 ## ⚡ Features
 
+- 💨 Fart Ecosystem focus
 - 🔄 Fast and secure token swaps
 - 💰 Competitive trading fees
 - 🔒 Non-custodial trading
@@ -29,7 +33,7 @@ FartSwap is a decentralized exchange (DEX) built specifically for the FartCoin e
 
 ## 🌐 Live Demo
 
-[Coming Soon]
+https://fartswap.io/
 
 ## 📝 License
 
