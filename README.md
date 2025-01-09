@@ -42,4 +42,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 *Last updated: January 8, 2025*
 
-> "Innovation distinguishes between a leader and a follower." - Steve Jobs
+> "there cannot be a fartcoin without a fartswap" - Shitoshi
